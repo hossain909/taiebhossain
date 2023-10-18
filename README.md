@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
-- 🔭 I’m currently working on Blog App
+- 🔭 I’m currently working on a Blog App using Next13, prisma and mongodb
 - 🌱 I’m currently learning NextJs & Go
 - 👯 I’m looking to collaborate on Nextjs & Go projects
 - 💬 Ask me about Web dev related Stuff
