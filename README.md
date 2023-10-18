@@ -15,5 +15,6 @@
 
 ## Some Statistics About Me
 ![Taieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiebhossain&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taiebhossain&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/taiebhossain/github-readme-stats#gh-dark-mode-only)
 
 ⭐️ From [taiebhossain](https://github.com/taiebhossain)
