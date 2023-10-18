@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello, I'm Taieb Hossain 👋 </h1>
-<h3 align="center">🚀 Fullstack Devlover 🚀</h3>
+<h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
