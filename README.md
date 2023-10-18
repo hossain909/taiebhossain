@@ -16,4 +16,4 @@
 ## Some Statistics About Me
 ![Taieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiebhossain&show_icons=true&theme=transparent)
 
-⭐️ From [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
+⭐️ From [abhinavdubeyad9](https://github.com/taiebhossain)
